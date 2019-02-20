@@ -26,38 +26,6 @@ Hosted in Switzerland by ibksturm, aka Andreas Ziegler
 
 sdns://AQcAAAAAAAAADDE3OC44Mi4xMDMuNSCSGtweo8iPa3iWOyYqf0bJsHf3zo5_ASOgufNPWRaybxgyLmRuc2NyeXB0LWNlcnQuaWJrc3R1cm0
 
-## opennic-ethservices
-
-OpenNIC • DNSSEC • 24-hour Logs • AnonymousLogs • NoFilters
-Location: Frankfurt, Germany
-By ethservices.
-
-sdns://AQUAAAAAAAAAEjk0LjI0Ny40My4yNTQ6NTM1MyDUQmYmXRg576Roac_42Ue6uQtQ664-FvA20PgVt_UIfigyLmRuc2NyeXB0LWNlcnQub3Blbm5pYzEuZXRoLXNlcnZpY2VzLmRl
-
-## opennic-luggs
-
-Public DNS server in Canada operated by Luggs
-
-sdns://AQYAAAAAAAAADTE0Mi40LjIwNC4xMTEgHBl5MxvoI8zPCJp5BpN-XDQQKlasf2Jw4EYlsu3bBOMfMi5kbnNjcnlwdC1jZXJ0Lm5zMy5jYS5sdWdncy5jbw
-
-## opennic-luggs-ipv6
-
-Public DNS server in Canada operated by Luggs (IPv6)
-
-sdns://AQYAAAAAAAAAIVsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDQ6MTExXSAcGXkzG-gjzM8ImnkGk35cNBAqVqx_YnDgRiWy7dsE4x8yLmRuc2NyeXB0LWNlcnQubnMzLmNhLmx1Z2dzLmNv
-
-## opennic-luggs2
-
-Second public DNS server in Canada operated by Luggs
-
-sdns://AQYAAAAAAAAAEDE0Mi40LjIwNS40Nzo0NDMgvL-34FDBPaJCLACwsaya1kjFwmS8thcLiD1xishuugkfMi5kbnNjcnlwdC1jZXJ0Lm5zNC5jYS5sdWdncy5jbw
-
-## opennic-luggs2-ipv6
-
-Second public DNS server in Canada operated by Luggs (IPv6)
-
-sdns://AQYAAAAAAAAAJFsyNjA3OjUzMDA6MTIwOmE4YToxNDI6NDoyMDU6NDddOjQ0MyC8v7fgUME9okIsALCxrJrWSMXCZLy2FwuIPXGKyG66CR8yLmRuc2NyeXB0LWNlcnQubnM0LmNhLmx1Z2dzLmNv
-
 ## publicarray-au
 
 DNSSEC • OpenNic • Non-logging • Uncensored - hosted at vultr.com
@@ -71,12 +39,6 @@ DNSSEC • OpenNic • Non-logging • Uncensored - hosted on GCP
 Maintained by publicarray - https://dns.seby.io
 
 sdns://AgcAAAAAAAAADDQ1Ljc2LjExMy4zMSA-GhoPbFPz6XpJLVcIS1uYBwWe4FerFQWHb9g_2j24OBBkb2guc2VieS5pbzo4NDQzCi9kbnMtcXVlcnk
-
-## opennic-userspace
-
-Non-logging OpenNIC resolver in Melbourne, Australia - https://userspace.com.au
-
-sdns://AQYAAAAAAAAAEzEwMy4yMzYuMTYyLjExOTo0NDMgrAN5npeaXgUs0qL88HYBouapH6Vl2B3wcbQae5_HZYgpMi5kbnNjcnlwdC1jZXJ0Lm5zMDMubWVsLnVzZXJzcGFjZS5jb20uYXU
 
 ## opennic-bongobow
 
